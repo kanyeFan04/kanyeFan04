@@ -11,5 +11,5 @@ My Tech Stacks
 </h3>
 
 <h3 align="center">
-<img src="https://raw.githubusercontent.com/akasrai/akasrai/master/assets/stack-hills.png" alt="stacks"/>
+<img src="https://media.discordapp.net/attachments/957779969478651941/1040994810892394516/unknown.png" alt="stacks"/>
 </h3>
